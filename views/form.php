@@ -36,27 +36,27 @@
                                     <div class="col-md-6">
 
                                         <div class="form-group">
-                                            <label for="amount">Amount<span class="text-danger">*</span></label>
+                                            <label for="amount">Amount*</label>
                                             <input class="form-control" type="text" id="amount" name="amount" placeholder="Enter amount">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="buyer">Buyer<span class="text-danger">*</span></label>
+                                            <label for="buyer">Buyer*</label>
                                             <input type="text" id="buyer" name="buyer" class="form-control" placeholder="Write buyer name">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="receipt_id">Receipt ID<span class="text-danger">*</span></label>
+                                            <label for="receipt_id">Receipt ID*</label>
                                             <input type="text" id="receipt_id" name="receipt_id" class="form-control" placeholder="Write receipt id">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="buyer_email">Buyer email<span class="text-danger">*</span></label>
+                                            <label for="buyer_email">Buyer email*</label>
                                             <input type="email" id="buyer_email" name="buyer_email" class="form-control" placeholder="Write buyer email">
                                         </div>
 
                                         <div class="form-group add_item_parent">
-                                            <label for="items">Item<span class="text-danger">*</span></label>
+                                            <label for="items">Item*</label>
                                             <div class="d-flex">
                                                 <input type="text" name="items[]" class="form-control item-input" placeholder="Write item name">
                                                 <button type="button" class="btn btn-sm btn-primary" id="add_item" style="width: 10%;">add +</button>
@@ -69,22 +69,22 @@
 
 
                                         <div class="form-group">
-                                            <label for="city">City<span class="text-danger">*</span></label>
+                                            <label for="city">City*</label>
                                             <input type="text" id="city" name="city" class="form-control" placeholder="Write city name">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="phone">Phone<span class="text-danger">*</span></label>
+                                            <label for="phone">Phone*</label>
                                             <input type="text" id="phone" name="phone" class="form-control" placeholder="Write phone number">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="entry_by">Entry By<span class="text-danger">*</span></label>
+                                            <label for="entry_by">Entry By*</label>
                                             <input type="text" id="entry_by" name="entry_by" class="form-control" placeholder="Entry by">
                                         </div>
 
                                         <div class="form-group">
-                                            <label for="note">Note<span class="text-danger">*</span></label>
+                                            <label for="note">Note*</label>
                                             <textarea id="note" name="note" class="form-control"></textarea>
                                         </div>
 
