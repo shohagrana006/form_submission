@@ -1,10 +1,14 @@
 # Form_submission project
 
 
-### Instructions:
-    - Frist of all unzip the project.
-    - Full project copy and paste the local server (xampp/ wamp/ lamp/ mamp)
-    - go to .env file and change your database credential.
+## Instructions:
+
+### Open your terminal and run
+- `git clone https://github.com/shohagrana006/form_submission.git`
+- `cd form_submission`
+- `composer install`
+- `cp .env.example .env`
+- go to .env file and change your database credential.
 
 
 ### DB setup:
