@@ -3,7 +3,7 @@
 
 ## Instructions:
 
-### Open your terminal and run
+### Open your terminal the web server root directory of (xampp/ wamp/ lamp/ mamp) and run
 - `git clone https://github.com/shohagrana006/form_submission.git`
 - `cd form_submission`
 - `composer install`
